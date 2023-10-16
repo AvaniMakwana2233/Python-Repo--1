@@ -1,0 +1,4 @@
+imp sessioin on git,
+remember all things,
+git status
+git commit -m new file add
