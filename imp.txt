@@ -4,3 +4,4 @@ git status
 git add
 git commit -m "new file add"
 
+git push origin head/main/
