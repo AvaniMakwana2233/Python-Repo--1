@@ -5,3 +5,5 @@ git add
 git commit -m "new file add"
 
 git push origin head/main/
+
+git diif by this command we can show updated data
